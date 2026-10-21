@@ -1,0 +1,18 @@
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+pubspec.lock
+
+# Local environment files
+.env
+.env.*
+!.env.example
